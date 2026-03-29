@@ -1,0 +1,3 @@
+[submodule "libs/borealis_nwn_mdl"]
+	path = libs/borealis_nwn_mdl
+	url = git@github.com:varenx/borealis_nwn_mdl.git
