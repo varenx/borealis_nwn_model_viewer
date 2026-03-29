@@ -1,5 +1,7 @@
 # Borealis NWN Model Viewer
 
+![Screenshot](docs/scrshot.png)
+
 A 3D model viewer for Neverwinter Nights MDL files. Supports binary and ASCII MDL formats with animation playback, material/texture rendering, and model inspection.
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
